@@ -1,0 +1,28 @@
+.triangle-container{
+    display: grid;
+    place-items: center;
+    margin-top: 2.1em;
+}
+.triangle-input{
+    display: grid;
+}
+.num-input{
+    margin: 2em;
+    width: 18em;
+    height: 2.4em;
+}
+button{
+    width: 19em;
+    height: 2.5em;
+    margin-left: 1.8em;
+    cursor: pointer;
+}
+.heading{
+    text-align: center;
+}
+.error{
+    color: red;
+}
+.result{
+    color: green;
+}
